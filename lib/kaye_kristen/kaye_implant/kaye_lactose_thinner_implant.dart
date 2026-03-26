@@ -1,0 +1,3 @@
+class KayeLactoseThinnerImplant {
+  KayeLactoseThinnerImplant();
+}

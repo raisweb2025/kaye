@@ -1,0 +1,1 @@
+class KayeJewelryFridge implements Exception {}

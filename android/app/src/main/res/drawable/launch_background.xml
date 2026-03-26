@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/kaye_ten_compassion_bg" />
+
+    <!-- You can insert your own image assets here -->
+    <item
+        android:width="98dp"
+        android:height="98dp"
+        android:drawable="@drawable/kaye_ten_kristen_consent"
+        android:gravity="center_horizontal"
+        android:top="132dp"
+        />
+    <item
+        android:width="97dp"
+        android:height="38dp"
+        android:drawable="@drawable/kaye_ten_kristen_invention"
+        android:gravity="center_horizontal"
+        android:top="250dp"
+        />
+
+</layer-list>

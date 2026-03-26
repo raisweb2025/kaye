@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308582618994",
+    "project_id": "kaye-203d5",
+    "storage_bucket": "kaye-203d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308582618994:android:53de38503ae3d4c9402feb",
+        "android_client_info": {
+          "package_name": "com.kaye.yex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308582618994-27d6j7rmv1jr1aa5e9kua874kjui74e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaye.yex",
+            "certificate_hash": "9386c118acf295b84e4bd4e6a13cc4604956b326"
+          }
+        },
+        {
+          "client_id": "308582618994-3q3t3rt83f285q9agpu69oahshbkj3ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6-Zcdw-x4iXx58EK_zQPZN9CgwYMOdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308582618994-3q3t3rt83f285q9agpu69oahshbkj3ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
